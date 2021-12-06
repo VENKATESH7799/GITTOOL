@@ -59,5 +59,6 @@ this is the middle of paragraph
 fdgdjfhguidhgui
 this is the ending
 
+My footnote[^1]
 [^1]: This is afootnote
    
